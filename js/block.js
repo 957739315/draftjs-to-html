@@ -15,6 +15,7 @@ const blockTypesMapping = {
   'ordered-list-item': 'ol',
   blockquote: 'blockquote',
   code: 'pre',
+  'code-block': 'pre',
 };
 
 /**
